@@ -270,7 +270,7 @@ plotSpectra(sp2[-1])
 # plotSpectra(sp2[2:11])
 # plotSpectra(filterMsLevel(sp2, 2L))[1]
 ```
-
+ 
 ## Focus of mz range
 ```{r}
 plotSpectra(sp[2807], xlim = c(521.2, 522.5))

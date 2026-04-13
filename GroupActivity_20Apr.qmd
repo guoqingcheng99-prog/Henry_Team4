@@ -35,18 +35,17 @@ editor: visual
 
 Each group (A–E) follows the same process independently, with question rotation between groups at each step.
 
-| Step | Time | Task |
-|---------|--------------|------------------------------------------------------|
-| 1 | 5 min | Creates a question |
-| 2 | 5 min | Exchange questions and answer them |
-| 3 | 5 min | Pass to a new group |
-| 4 | 5 min | Final group reviews |
-| 5 | 2 min | Present the question and final answer |
+| Step | Time  | Task                                  |
+|------|-------|---------------------------------------|
+| 1    | 5 min | Creates a question                    |
+| 2    | 5 min | Exchange questions and answer them    |
+| 3    | 5 min | Pass to a new group                   |
+| 4    | 5 min | Final group reviews                   |
+| 5    | 2 min | Present the question and final answer |
 
 ------------------------------------------------------------------------
 
 ## Let’s Begin 🚀
-
 
 **Rotation principle:**\
 Each group starts with its own question and receives a different question at each step, ensuring all groups both create and evaluate ideas.
@@ -100,6 +99,6 @@ Review all inputs\
 
 ## Thank You!
 
-🙏 Thank you for your participation  
+🙏 Thank you for your participation
 
 Questions or comments?
