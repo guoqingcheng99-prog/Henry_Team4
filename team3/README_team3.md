@@ -21,7 +21,7 @@ Each team member should take responsibility for one or more of the following tas
 
   Handles running the assigned DIA analysis software and generating identification results.
 
-- **Repository Manager (Pulling Fork)** (Peyman) 
+- **Repository Manager (Pulling Fork)** (Peyman ) 
 
   Manages the GitHub workflow, including pulling updates, maintaining the fork, and organizing files.
 
